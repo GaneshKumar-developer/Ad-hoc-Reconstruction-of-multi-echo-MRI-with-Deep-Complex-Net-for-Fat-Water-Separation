@@ -3,7 +3,7 @@
 ## Steps to run the code and see the results:
 ### 1. Clone the entire repository 
 ### 2. Open the IPYNB Notebook named: "MRI_Fat_Water_Seperation_With_DCCN"
-### 3. Update the path for the root directory where the repository files are present in the opened IPYNB Notebook.
-### 4. Start running the cells one-by-one till the end. 
+### 3. In the IPYNB Notebook, update the path for the root directory where the repository files are present.
+### 4. Start running the cells in the IPYNB Notebook one-by-one till the end. 
 
-## Codes for both U-Net ad-hoc reconstruction and DCCN ad-hoc reconstruction are present in the IPYNB Notebook, along with the codes to Qualitatively and Quantitatively compare their results. 
+## Codes for running both the U-Net ad-hoc reconstruction and the DCCN ad-hoc reconstruction are present in the IPYNB Notebook, along with the codes to Qualitatively and Quantitatively compare their results. 
